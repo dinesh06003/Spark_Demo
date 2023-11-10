@@ -1,0 +1,7 @@
+A B C D E	1
+F G H I J	1
+A A A B C	2
+D D E E E	2
+A D E E E	3
+F G H I J	3
+Ex1 Ex2 Ex3	0
